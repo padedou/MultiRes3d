@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="Datastructures\Contraction.cs" />
     <Compile Include="Datastructures\Face.cs" />
     <Compile Include="Datastructures\Mesh.cs" />
